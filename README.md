@@ -7,3 +7,12 @@ Initial submit was created from the contents of the arhive [Sideex@nckuselab.org
 ### References
 
 Official SideeX website: [http://sideex.org](http://sideex.org/)
+
+
+### See Also
+
+* [selenium-builder xpi](https://addons.mozilla.org/en-US/firefox/addon/selenium-builder/)
+* [slenium builder (legacy)](https://github.com/SeleniumBuilder/se-builder/)
+* [selenium builder (new)](https://github.com/SeleniumBuilder/selenium-builder)
+* [se scripts runner (node)](https://github.com/Zarkonnen/se-interpreter)
+* [se script runner (java)](https://github.com/SeleniumBuilder/SeInterpreter-Java)
